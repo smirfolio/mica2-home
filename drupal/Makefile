@@ -3,7 +3,7 @@
 #
 drupal_version = 7.51
 obiba-progressbar-version=1.0.0
-obiba-timeline-version=1.0
+obiba-timeline-version=1.0.1
 drupal_dir=$(CURDIR)/target/drupal
 
 #
@@ -25,7 +25,7 @@ www=html/drupal
 mica-drupal7_branch=master
 agate-drupal7_branch=master
 bootstrap-drupal7_branch=master
-mica_js_dependencies_branch=master
+mica_js_dependencies_branch=branch-1.5.x
 
 drupal-help:
 	@echo
